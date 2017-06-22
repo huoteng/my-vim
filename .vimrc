@@ -16,7 +16,7 @@ filetype plugin indent on
 set nu
 set background=dark
 set laststatus=2
-set relativenumbe
+set relativenumber
 syntax on
 syntax enable
 colorscheme solarized
